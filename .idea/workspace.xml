@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ce701f63-f1ed-400f-b54c-073234ad5d86" name="Changes" comment="" />
+    <list default="true" id="ce701f63-f1ed-400f-b54c-073234ad5d86" name="Changes" comment="Initial commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hello4.html" beforeDir="false" afterPath="$PROJECT_DIR$/hello4.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -66,8 +69,27 @@
       <workItem from="1661608591642" duration="136000" />
       <workItem from="1661608763776" duration="1726000" />
       <workItem from="1661610535369" duration="1059000" />
-      <workItem from="1661611621791" duration="325000" />
+      <workItem from="1661611621791" duration="349000" />
+      <workItem from="1661612522612" duration="807000" />
+      <workItem from="1661622552263" duration="29000" />
+      <workItem from="1661622780723" duration="6000" />
+      <workItem from="1661622791849" duration="10000" />
+      <workItem from="1661622804507" duration="2000" />
+      <workItem from="1661899523534" duration="47000" />
+      <workItem from="1661903389598" duration="17000" />
+      <workItem from="1661903409457" duration="10000" />
+      <workItem from="1661910062121" duration="17000" />
+      <workItem from="1661914877750" duration="100000" />
+      <workItem from="1661919933840" duration="59000" />
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1661611996920</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1661611996920</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -83,5 +105,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
